@@ -1,6 +1,6 @@
 # Docker Image Build and Push
 
-This project demonstrates how to build a Docker image and push it to Docker Hub using GitHub Actions.
+This project demonstrates how to build a Docker image and push it to Docker Hub using Git Hub Actions.
 
 ## Purpose
 
